@@ -1,6 +1,6 @@
 # My personal osu! skin
 
-Changes come as I see fit.
+Mixed skin. Changes come as I see fit.
 
 ## Download
 
@@ -21,4 +21,5 @@ Extract the `snow-personal` folder from the archive into your osu! Skins folder,
 Set in-game cursor setting to 2x.
 
 [D a n i e l](https://osu.ppy.sh/users/9464550)
+
 ![Aimbuff](/github-assets/aimbuff.png)
