@@ -4,8 +4,6 @@ Mixed skin. Changes come as I see fit.
 
 ## Download
 
-### Manual download
-
 [Download .osk](https://raw.githubusercontent.com/SnowLire/snow-personal/master/snow-personal.osk)
 
 ### Git & symlink
