@@ -12,9 +12,7 @@ If you didn't understand what any of that means, keep reading.
 
 ### Manual download
 
-[Download](https://github.com/SnowLire/snow-personal/archive/refs/heads/master.zip)
-
-Extract the `snow-personal` folder from the archive into your osu! Skins folder, usually located in `%localappdata%\osu!\Skins` on Windows, and reload your skins with `Ctrl-Alt-Shift-s`
+[Download .osk](https://raw.githubusercontent.com/SnowLire/snow-personal/master/snow-personal.osk)
 
 ## Smooth cursor
 
